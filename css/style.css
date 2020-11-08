@@ -1,0 +1,214 @@
+body {
+    color: #494947;
+    line-height: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background: #24859d url(../images/fondo_degradado.jpg) repeat-x 8px 0px;
+}
+
+.contenedor_ppal {
+    max-width: 1024px;
+    margin: 0px auto;
+    position: relative;
+    background-color: #fff;
+    -webkit-box-shadow: 0 -40px 10px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 -40px 10px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 -40px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: normal;
+    color: #ff5862;
+    margin: 0 0 .5em 0;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin: 0 0 .1em 0;
+}
+
+p {
+    margin: 0 0 .75em 0;
+}
+
+a {
+    color: #009aff;
+}
+
+a:hover {
+    color: #48be96;
+    ;
+}
+
+footer {
+    font-size: .85em;
+    color: #a6d1e4;
+    background-color: #298ea7;
+    padding: 10px 10px 10px 5px;
+}
+
+.contenedor_desc {
+    background: #fff url(../images/gota_agua.jpg) no-repeat right bottom;
+}
+
+a.vmas {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    margin: .5em 0 0 0;
+    padding: 0 12px 0 0;
+    background: url(../images/desc_flecha.png) no-repeat right 0px;
+}
+
+.desc_c h3 {
+    font-size: 1.1em;
+    margin: 0;
+}
+
+.desc_c p {
+    line-height: 1.2em;
+    font-size: 0.9em;
+    margin-bottom: .5em;
+}
+
+.desc_c {
+    background: no-repeat;
+}
+
+.desc_c1 {
+    background-image: url(../images/desc_corta_1.jpg);
+}
+
+.desc_c.dos {
+    background-image: url(../images/desc_corta_2.jpg);
+}
+
+.desc_c.tres {
+    background-image: url(../images/desc_corta_3.jpg);
+}
+
+.desc_c.cuatro {
+    background-image: url(../images/desc_corta_4.jpg);
+}
+
+header a.logo {
+    display: block;
+    position: absolute;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}
+
+nav {
+    width: 100%;
+    display: block;
+    position: absolute;
+    background-color: #ff5862;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffd6d8;
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: bold;
+    font-size: .9em;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+.limpiar {
+    clear: both;
+    line-height: 1px;
+}
+
+.descripcion_up,
+.descripcion_low {
+    float: left;
+    width: 100%;
+}
+
+.descripcion_up {
+    padding-bottom: 15px;
+}
+
+.colored{
+    color: red;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.claseimg1{
+    padding-left: 30px;
+    padding-top: 15px;
+    float: left;
+    padding-right: 13px;
+    width: 200px;
+    height: 183px;
+}
+
+.contenedor_desc2 {
+    background: #fff;
+    padding-left: 30px;
+}
+
+.div1s{
+    overflow: auto;
+}
+
+.div2s{
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.p1s{
+    padding-right: 30px;
+    padding-top: 15px;
+    font-size: 13px;
+}
+
+.table1{
+    width: 100%;
+    padding-left: 70px;
+}
+
+.tds1{
+    font-weight: bold;
+    padding-left: 41px;
+}
+
+.tds2{
+    font-weight: bold;
+    padding-left: 101px;
+}
+
+.tds3{
+    font-weight: bold;
+    padding-left: 29px;
+}
+
+.tds4{
+    padding-left: 5%;
+}
+
+.padding3{
+    padding-left: 3%
+}
+
+.paddingtop{
+    padding-top: 10px;
+}
+
+.center{
+    text-align: center;
+}
+
+.borderimg{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
